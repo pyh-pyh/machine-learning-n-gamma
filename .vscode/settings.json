@@ -1,0 +1,7 @@
+{
+    "python.linting.pylintPath": "C:\\Users\\lemon\\Anaconda3\\pkgs\\pylint-2.4.2-py37_0\\Scripts\\pylint",
+    "python.pythonPath": "X:\\Programs\\Anaconda\\python.exe",
+    "python.linting.flake8Enabled": false,
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
